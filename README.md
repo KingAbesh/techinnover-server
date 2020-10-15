@@ -2,6 +2,10 @@
 
 This is the server powering the techinnover-client. 
 
+Base URI: https://techinnover-server.herokuapp.com/api/v1
+
+client URL: https://techinnover-client.netlify.app/
+
 **To run this project locally**
 
 - `Clone this repo`
