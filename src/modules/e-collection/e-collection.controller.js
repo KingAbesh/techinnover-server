@@ -25,7 +25,7 @@ const collectUserData = async (req, res, next) => {
       }
     });
     return next(
-      createError(404, [
+      createError(422, [
         {
           status: 422,
           title: "Image too large",
